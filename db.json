@@ -1,0 +1,47 @@
+{
+  "tour":[
+    {
+      "id":1,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/Chhatrapati-Shivaji-Terminus-railway-station-mumbai.jpg",
+      "location":"Mumbai",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, nam!",
+      "price": 1800
+    },
+    {
+      "id": 2,
+      "img": " https://cdn.britannica.com/93/199193-050-9EA1781A/view-Dubai-foreground-Burj-al-Arab-Hotel-United.jpg",
+      "location": "Dubai",
+      "description": "Dubai is famous for contemporary sightseeing attractions such as the Burj Khalifa (the world's tallest building) and shopping malls that come complete with mammoth aquariums and indoor ski slopes! ",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "img": "  https://cdn.britannica.com/44/91844-050-F248F634/beach-Waikiki-Honolulu-Oahu-Hawaii.jpg ",
+      "location": "Hawaii",
+      "description": "Today, Hawaiian culture may hold many of the answers sought in a rapidly changing world. The spirit of aloha  being in the presence of and sharing the essence of life  teaches us lessons of peace, kindness, compassion and responsibility to future generations",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/39/e1/25/aerial.jpg",
+      "location": "Zanzibar",
+      "description": "Zanzibar is famous for its spices Second only to tourism, spice farming forms a major part of Zanzibar's economy. The islands are sometimes referred to as the Spice Islands, due to the cloves, nutmeg, cinnamon, and black pepper that are grown there. ",
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "img": " https://i.ytimg.com/vi/Zm4xnTDKWb0/maxresdefault.jpg",
+      "location": "Dares salaam",
+      "description": "Located along the coast of the Indian Ocean, Dar es Salaam is the largest city in Tanzania and home to a wide range of people and cultures. Known for its beaches, islands, seafood and music, the city is brimming with a variety of activities for every type of tourist. ",
+      "price": 700
+    },
+    {
+      "id": 6,
+      "img": " https://content.r9cdn.net/rimg/dimg/c6/b2/7e865843-city-26243-164a4a25d83.jpg?width=1366&height=768&xhint=3968&yhint=1450&crop=true",
+      "location": "Nairobi",
+      "description": "The name “Nairobi” comes from the Maasai phrase 'Enkare Nyrobi', which translates to “cool water”. The area Nairobi currently occupies was essentially uninhabited swamp until a supply depot of the Uganda Railway was built by the British in 1899 linking Mombasa to Uganda ",
+      "price": 1700
+    }
+  ]
+
+}
